@@ -1,1 +1,3 @@
-# learning_materials
+# Learning Materials
+
+To organize what I am learning.
