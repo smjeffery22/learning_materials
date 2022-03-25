@@ -1,0 +1,33 @@
+// include repeated styles in a function format
+// custom parameters can be added similar to function
+// @mixin flexCenter($direction, $background) {
+// 	height: 100vh;
+// 	display: flex;
+// 	justify-content: center;
+// 	align-items: center;
+//   flex-direction: $direction;
+//   background: $background;
+// }
+
+header {
+	// @include flexCenter(column, red);
+	height: 100vh;
+
+	// background: lightblue;
+	color: $textColor;
+	background: lightblue;
+
+	// nested elements
+	button {
+		background: $primaryBtn;
+
+		// add hover pseudo code to the parent (i.e. button)
+		&:hover {
+			background: red;
+		}
+
+		// &::after {
+		//   content: "Hellooooo";
+		// }
+	}
+}

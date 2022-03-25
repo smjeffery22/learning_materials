@@ -1,0 +1,14 @@
+// import style components
+@import './variables';
+@import './header';
+
+.contact {
+  // @include flexCenter(row, blue);
+	// background: $primaryBtn;
+
+  // to inherit the same style from specific element
+  @extend header;
+
+  // can overwrite inherited styles
+  background: lightcoral;
+}

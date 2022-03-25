@@ -16,7 +16,7 @@
 
 - Relative to font-size
 
-  - _em_ and _rem_
+  - *em* and *rem*
 
 - Relative to the viewport (browser window)
   - vw, vh, vmin, vmax
@@ -24,8 +24,11 @@
 #### em
 
 - Relative to their parent's font-size
+
 - Font-size is an inherited property
-  - If not declared, inherited from the body (i.e. _default of 16px_)
+  - If not declared, inherited from the body (i.e. *default of 16px*)
+
+- For *width*, *padding* and *margin*, relative to that element, not its parent
 
 #### rem (root em)
 
