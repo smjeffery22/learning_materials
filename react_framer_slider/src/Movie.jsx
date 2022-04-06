@@ -6,10 +6,9 @@ const Movie = ({ movie }) => {
 			animate={{ opacity: 1 }}
 			initial={{ opacity: 0 }}
 			exit={{ opacity: 0 }}
-			whileHover={{ scale: 1.5 }}
 			layout
+			className="item"
 		>
-			<h2>{movie.title}</h2>
 			<img
 				src={`https://image.tmdb.org/t/p/w342${movie.poster_path}`}
 				alt={movie.title}
