@@ -37,5 +37,6 @@ const dog: IDog = {
 // Dog type accepted in array
 const dogs: IDog[] = [];
 dogs.push(dog); // array of object created
-dogs.push({});
-dogs.push(5);
+// dogs.push({});
+// dogs.push(5);
+
