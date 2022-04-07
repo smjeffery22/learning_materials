@@ -8,6 +8,7 @@ username = 42;
 username = false;
 
 // ARRAYS
+// const numbers: number[] = [];
 // const numbers: number[] = [1, 2, 3];
 const numbers: (string | number)[] = [1, 2, 3];
 
