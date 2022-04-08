@@ -1,3 +1,4 @@
+"use strict";
 // PRIMITIVES
 // let username: string = 'Alice';
 // let username: string | number = 'Alice';
@@ -6,6 +7,7 @@ username = 'Bob';
 username = 42;
 username = false;
 // ARRAYS
+// const numbers: number[] = [];
 // const numbers: number[] = [1, 2, 3];
 const numbers = [1, 2, 3];
 numbers.push(4);

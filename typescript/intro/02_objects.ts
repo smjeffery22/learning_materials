@@ -19,9 +19,12 @@ interface IDog {
   breed: string;
   age: number;
   treats: ITreat[]; // nested - array in object
+
+  getTreat: (treat: ITreat) => boolean // to set type for return value
 }; 
 
 const dog: IDog = {
+  getTreat: (treat: ITreat) => { return false },
   name: 'Bori',
   breed: 'Toy Poodle',
   age: 7,
