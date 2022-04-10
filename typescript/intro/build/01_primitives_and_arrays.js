@@ -14,3 +14,5 @@ numbers.push(4);
 numbers.push('four');
 // numbers.push(true);
 const result = numbers.pop(); // data type of result is number since the elements in the array are numbers
+let empty = undefined;
+empty = 22;
