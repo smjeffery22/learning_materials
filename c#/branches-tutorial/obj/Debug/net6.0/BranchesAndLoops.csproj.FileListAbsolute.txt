@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops
+/Users/jp/coding/learning_materials/c#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops.deps.json
+/Users/jp/coding/learning_materials/c#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops.dll
+/Users/jp/coding/learning_materials/c#/branches-tutorial/bin/Debug/net6.0/BranchesAndLoops.pdb
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.dll
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/refint/BranchesAndLoops.dll
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.pdb
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/BranchesAndLoops.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/branches-tutorial/obj/Debug/net6.0/ref/BranchesAndLoops.dll

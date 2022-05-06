@@ -93,6 +93,14 @@ Console.WriteLine(songLyrics.EndsWith("hello"));      // true
 Console.WriteLine(songLyrics.EndsWith("goodbye"));    // false
 ```
 
+### String vs. Char
+
+- `string` is declared with `" "` and `char` is declared using `' '`
+  - string is an *immutable reference type*
+  - char is a *value type*
+
+- https://stackoverflow.com/questions/41564445/how-are-strings-vs-chars-handled-in-c-sharp-vs-javascript
+
 ## Numeric Types
 
 ### Integer
@@ -154,4 +162,62 @@ decimal c = 1.0M;
 decimal d = 3.0M;
 //0.3333333333333333333333333333 => greater precision
 Console.WriteLine(c / d);
+```
+
+## Branches and Loops
+
+### If Statement
+
+- Combine `if` and `else` conditions enclosed within `{ }`
+
+```C#
+int a = 5;
+int b = 5;
+int c = 4;
+
+if ((a + b + c > 10) && (a == b))
+{
+  Console.WriteLine("The answer is greater than 10.");
+  Console.WriteLine("And the first number is equal to the second");
+}
+else
+{
+  Console.WriteLine("The answer is not greater than 10.");
+  Console.WriteLine("And the first number is not equal to the second");
+}
+```
+
+### While Statement
+
+- `do...while` loop executes the code first, then checks the condition
+
+```C#
+int counter = 0;
+
+while (counter < 10)
+{
+  Console.WriteLine($"Hello World! The counter is {counter}.");
+  counter++;
+}
+
+int counter = 0;
+do
+{
+    Console.WriteLine($"Hello World! The counter is {counter}");
+    counter++;
+} while (counter < 10);
+```
+
+### For Loop
+
+- Three parts that control `for` loop
+  - `for initializer` declares the loop variable and sets its value
+  - `for condition` declares the condition that the for loop continues to execute until
+  - `for iterator` specifies how the loop variable should be modified after executing the block of code
+
+```C#
+for (int index = 0; index < 10; index++)
+{
+  Console.WriteLine($"Hello World! The index is {index}");
+}
 ```
