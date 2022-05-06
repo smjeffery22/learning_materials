@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/bin/Debug/net6.0/NumbersInCSharp
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/bin/Debug/net6.0/NumbersInCSharp.deps.json
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/bin/Debug/net6.0/NumbersInCSharp.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/bin/Debug/net6.0/NumbersInCSharp.dll
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/bin/Debug/net6.0/NumbersInCSharp.pdb
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/NumbersInCSharp.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/NumbersInCSharp.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/NumbersInCSharp.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/NumbersInCSharp.dll
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/refint/NumbersInCSharp.dll
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/NumbersInCSharp.pdb
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/NumbersInCSharp.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/numbers-quickstart/obj/Debug/net6.0/ref/NumbersInCSharp.dll
