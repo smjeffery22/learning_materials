@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/bin/Debug/net6.0/Variables
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/bin/Debug/net6.0/Variables.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/bin/Debug/net6.0/Variables.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/bin/Debug/net6.0/Variables.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/Variables.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/refint/Variables.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/Variables.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Variables/Variables/obj/Debug/net6.0/ref/Variables.dll

@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/bin/Debug/net6.0/IntroVSDemo
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/bin/Debug/net6.0/IntroVSDemo.deps.json
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/bin/Debug/net6.0/IntroVSDemo.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/bin/Debug/net6.0/IntroVSDemo.dll
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/bin/Debug/net6.0/IntroVSDemo.pdb
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/IntroVSDemo.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/IntroVSDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/IntroVSDemo.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/IntroVSDemo.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/IntroVSDemo.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/IntroVSDemo.dll
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/refint/IntroVSDemo.dll
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/IntroVSDemo.pdb
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/IntroVSDemo.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/IntroVSDemo/IntroVSDemo/obj/Debug/net6.0/ref/IntroVSDemo.dll

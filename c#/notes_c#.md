@@ -1,5 +1,54 @@
 # C#
 
+- Most powerful programming language for .NET
+  - Object-oriented
+  - Type-safe
+  - Enables writing .NET applications that are secure and robust
+
+## .NET
+
+- General purpose platform for developing variety of applications
+  - Desktop / Web / Cloud / Mobile / Gaming / IoT / AI
+
+- Software development platform for building *Windows applications*
+
+- 3 major components to .NET framework
+  - Runtime
+  - Class libraries
+  - Tools
+
+### .NET 6.0
+
+- Latest version of .NET and cross platform implementation of .NET
+
+- Supported OS:
+  - Windows
+  - Linux
+  - macOS
+
+## Development Environments
+
+### Visual Studio Code
+
+- Lightweight code editor
+
+- Cross platform (Windows, Linux, MacOS)
+
+- Extensions for every major programming language
+
+### Visual Studio
+
+- Comprehensive Integrated Development Environment (IDE) for .NET and C++
+
+- Contains full suite of tools and features
+
+###
+
+- `dotnet new console` to start with .NET application
+  - `Program.cs` is the main file
+  - `demos.csproj` is the settings file to compile and run program
+  - `obj` folder is where the binaries are going to be contained
+
 ## Console Type
 
 - `Console` is a type that represents the console window
@@ -221,3 +270,55 @@ for (int index = 0; index < 10; index++)
   Console.WriteLine($"Hello World! The index is {index}");
 }
 ```
+
+## List Collections - List<T> Type
+
+- Create a list of collections with a specific type
+  - Specify the type in `<T>`
+
+- List<T> type enables to add/remove elements
+  - `.Add()` and `.Remove()` methods
+
+- Each element in the list can be accessed using index
+
+- List length can be checked using `.Count` property
+
+```C#
+var names = new List<string> { "Jeffery", "Ana", "Felipe" };
+
+names.Add("Maria");
+names.Add("Bill");
+names.Remove("Ana");
+
+foreach (var name in names)
+{
+  Console.WriteLine($"Hello {name.ToUpper()}!");
+}
+
+Console.WriteLine();
+
+Console.WriteLine($"My name is {names[0]}");
+Console.WriteLine($"I have added {names[2]} and {names[3]} to the list.");
+Console.WriteLine($"Ths list has {names.Count} people in it");
+```
+
+### Search and Sort Lists
+
+- `.IndexOf` method searches for an item in the list
+  - Returns the index of the item
+  - If not found, returns -1
+
+- `.Sort()` method sorts all the items in the list in order
+
+```C#
+var index = names.IndexOf("Felipe");
+
+if (index == -1)
+{
+  Console.WriteLine($"When an item is not found, IndexOf returnd {index}");
+} else
+{
+  Console.WriteLine($"The name {names[index]} is at index {index}");
+}
+```
+
