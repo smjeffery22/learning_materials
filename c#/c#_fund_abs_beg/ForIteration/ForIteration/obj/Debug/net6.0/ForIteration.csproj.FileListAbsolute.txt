@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/bin/Debug/net6.0/ForIteration
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/bin/Debug/net6.0/ForIteration.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/bin/Debug/net6.0/ForIteration.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/bin/Debug/net6.0/ForIteration.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/bin/Debug/net6.0/ForIteration.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/ForIteration.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/ForIteration.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/ForIteration.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/ForIteration.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/ForIteration.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/refint/ForIteration.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/ForIteration.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/ForIteration.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ForIteration/ForIteration/obj/Debug/net6.0/ref/ForIteration.dll

@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/bin/Debug/net6.0/Decisions
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/bin/Debug/net6.0/Decisions.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/bin/Debug/net6.0/Decisions.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/bin/Debug/net6.0/Decisions.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/bin/Debug/net6.0/Decisions.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/Decisions.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/Decisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/Decisions.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/Decisions.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/Decisions.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/Decisions.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/refint/Decisions.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/Decisions.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/Decisions.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Decisions/Decisions/obj/Debug/net6.0/ref/Decisions.dll
