@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/HelperMethods.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/HelperMethods.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/HelperMethods.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/HelperMethods.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/bin/Debug/net6.0/HelperMethods
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/bin/Debug/net6.0/HelperMethods.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/bin/Debug/net6.0/HelperMethods.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/bin/Debug/net6.0/HelperMethods.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/bin/Debug/net6.0/HelperMethods.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/HelperMethods.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/refint/HelperMethods.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/HelperMethods.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/HelperMethods.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/HelperMethods/HelperMethods/obj/Debug/net6.0/ref/HelperMethods.dll

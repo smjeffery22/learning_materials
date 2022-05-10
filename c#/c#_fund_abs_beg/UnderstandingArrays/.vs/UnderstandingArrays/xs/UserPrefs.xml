@@ -1,17 +1,20 @@
-﻿<Properties StartupConfiguration="{D6771DD1-690C-4F13-A4CF-ADFCE45DD137}|Default">
-  <MonoDevelop.Ide.ItemProperties.ForIteration PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{689BDAE1-C8EA-4C89-9A39-836C2F75222A}|Default">
+  <MonoDevelop.Ide.ItemProperties.UnderstandingArrays PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingArrays/Program.cs">
+    <Files>
+      <File FileName="UnderstandingArrays/Program.cs" Line="35" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ForIteration" expanded="True">
-            <Node name="ForIteration" expanded="True" />
+          <Node name="UnderstandingArrays" expanded="True">
+            <Node name="UnderstandingArrays" expanded="True" />
           </Node>
         </State>
       </Pad>

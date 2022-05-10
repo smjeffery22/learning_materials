@@ -1,17 +1,20 @@
-﻿<Properties StartupConfiguration="{D6771DD1-690C-4F13-A4CF-ADFCE45DD137}|Default">
-  <MonoDevelop.Ide.ItemProperties.ForIteration PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{7A943D27-6D75-4CA2-87C1-17EEB87A724D}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimpleMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleMethod/Program.cs">
+    <Files>
+      <File FileName="SimpleMethod/Program.cs" Line="5" Column="22" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ForIteration" expanded="True">
-            <Node name="ForIteration" expanded="True" />
+          <Node name="SimpleMethod" expanded="True">
+            <Node name="SimpleMethod" expanded="True" />
           </Node>
         </State>
       </Pad>

@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/bin/Debug/net6.0/UnderstandingArrays
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/bin/Debug/net6.0/UnderstandingArrays.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/bin/Debug/net6.0/UnderstandingArrays.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/bin/Debug/net6.0/UnderstandingArrays.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/bin/Debug/net6.0/UnderstandingArrays.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/UnderstandingArrays.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/UnderstandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/UnderstandingArrays.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/UnderstandingArrays.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/UnderstandingArrays.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/UnderstandingArrays.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/refint/UnderstandingArrays.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/UnderstandingArrays.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/UnderstandingArrays.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/UnderstandingArrays/UnderstandingArrays/obj/Debug/net6.0/ref/UnderstandingArrays.dll
