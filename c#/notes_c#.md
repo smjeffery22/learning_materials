@@ -17,6 +17,12 @@
   - Class libraries
   - Tools
 
+- .NET framework class library is a *collection of classes* each containing *methods filled with functionality* that we can utilize in our applications
+  - These classes and methods can be used inside our applications
+  - Class libraries are split into multiple code files to avoid loading the entire library into memory every time
+    - Codes files are called `.NET assemblies`
+     
+
 ### .NET 6.0
 
 - Latest version of .NET and cross platform implementation of .NET
@@ -150,6 +156,36 @@ Console.WriteLine(songLyrics.EndsWith("goodbye"));    // false
 
 - https://stackoverflow.com/questions/41564445/how-are-strings-vs-chars-handled-in-c-sharp-vs-javascript
 
+### String Concatenation
+
+- Concatenating a string using string type creates a new string every time
+  - String is immutable
+  - A new string is created, copies previous value then adds new value to it
+  - Inefficient and requires a lot of memory management
+
+- `StringBuilder` class represents a mutable string of characters
+  - Does not create new variable
+  - Use along with `.Append()` method
+
+```C#
+// string type
+string myString = "";
+
+for (int i = 0; i < 100; i++)
+{
+  myString += "--" + i.ToString();
+}
+
+// StringBuilder class
+StringBuilder myString = new StringBuilder();
+
+for (int i = 0; i < 100; i++)
+{
+  myString.Append("--");
+  myString.Append(i);
+}
+```
+
 ## Numeric Types
 
 ### Integer
@@ -238,7 +274,7 @@ else
 
 ### While Statement
 
-- `do...while` loop executes the code first, then checks the condition
+- `do...while` loop executes the first block of code first at least once, then checks the while condition
 
 ```C#
 int counter = 0;
@@ -322,6 +358,37 @@ if (index == -1)
 }
 ```
 
+## ## List Collections - Dictionary<Tkey, Tvalue> Type
+
+- Like a dictionary; key-value (word-definition) pair with types
+
+```C#
+class Car
+{
+    public string VIN { get; set; }
+    public string Make { get; set; }
+    public string Model { get; set; }
+}
+
+Car car1 = new Car();
+car1.VIN = "A1";
+car1.Make = "Honda";
+car1.Model = "Accord";
+
+Car car2 = new Car();
+car2.VIN = "B2";
+car2.Make = "Lexus";
+car2.Model = "RX360";
+
+Dictionary<string, Car> myDictionary = new Dictionary<string, Car>();
+
+myDictionary.Add(car1.VIN, car1);
+myDictionary.Add(car2.VIN, car2);
+
+Console.WriteLine(myDictionary["A1"].Make);
+Console.WriteLine(myDictionary["B2"].Make);
+```
+
 ## Arrays
 
 ```C#
@@ -347,8 +414,132 @@ for (int i = 0; i < names.Length; i++)
    Console.WriteLine(names[i]);
 }
 
-foreach (string name in names)
+foreach (string name in names) 
 {
    Console.WriteLine(name);
 }
 ```
+
+## Dates and Times
+
+```C#
+// current date and time
+DateTime myValue = DateTime.Now;
+
+Console.WriteLine(myValue.ToString()); // 2022 - 05 - 09 10:17:40 PM
+Console.WriteLine(myValue.ToShortDateString()); // 2022 - 05 - 09
+Console.WriteLine(myValue.ToShortTimeString()); // 10:17 PM
+Console.WriteLine(myValue.ToLongDateString()); // Monday, May 9, 2022
+Console.WriteLine(myValue.ToLongTimeString()); // 10:17:40 PM
+
+Console.WriteLine(myValue.AddDays(3).ToLongDateString()); // adds 3 days to current date
+Console.WriteLine(myValue.AddDays(-3).ToLongDateString()); // subtracts 3 days to current date
+Console.WriteLine(myValue.AddHours(3).ToLongTimeString()); // adds 3 hours to current time
+
+Console.WriteLine(myValue.Month); // returns the current month in integer
+
+// specific date and time
+DateTime myBirthday = new DateTime(1992, 6, 22);
+//DateTime myBirthday = DateTime.Parse("06/22/1992");
+
+Console.WriteLine(myBirthday.ToShortDateString());
+
+TimeSpan myAge = DateTime.Now.Subtract(myBirthday); // subtracts myBirthday from the current time
+Console.WriteLine(myAge.TotalDays); // converts the result from above to the total number of days
+```
+
+## Classes
+
+- `Class` is like a data type similar to string, int, etc.
+  - Allows to define additional properties and methods
+  - `Instances` of the Class can be created using `new` operator
+    - Object's (new instance) properties and methods can be accessed using `.` operator
+
+### Accessibility Modifiers
+
+- `public` and `private` keywords are both accessibility modifiers
+  - Used to implement a tentative object-oriented programming called `encapsulation`
+
+- `public` methods are exposed to anybody who needs to work with the class through that method
+  - Accessible in other codes *outside the class*
+
+- `private` methods can be called by any other methods inside the class
+  - Accessible only *inside the class*
+  - Not accessible from an instance of the class
+  - Helper methods to public methods
+
+
+```C#
+class Program
+{
+    static void Main()
+    {
+        Car myCar = new Car();
+        myCar.Make = "Honda";
+        myCar.Model = "Accord";
+        myCar.Year = 2012;
+        myCar.Color = "White";
+
+        Console.WriteLine($"{myCar.Make} {myCar.Model}, {myCar.Year}, {myCar.Color}");
+
+        //decimal value = DetermineMarketValue(myCar);
+        //Console.WriteLine(value);
+
+        Console.WriteLine("{0:C}", myCar.DetermineMarketValue());
+
+        // Object initializer syntax
+        // no need for a Constructor
+        Car car1 = new Car() { Make = "BMW", Model = "i8", Year = 2022, Color = "White" };
+        Car car2 = new Car() { Make = "Toyota", Model = "4Runner", Year = 2022, Color = "White" };
+
+        // Collection initializer
+        List<Car> myList = new List<Car>()
+        {
+            new Car { Make = "Honda", Model = "Accord", Year = 2022, Color = "White" },
+            new Car { Make = "Lexus", Model = "RX360", Year = 2022, Color = "White" },
+        };
+    }
+
+    private static decimal DetermineMarketValue(Car car)
+    {
+        decimal carValue = 100.00M;
+
+        return carValue;
+    }
+}
+
+class Car
+{
+    public string Make { get; set; }
+    public string Model { get; set; }
+    public int Year { get; set; }
+    public string Color { get; set; }
+
+    public decimal DetermineMarketValue()
+    {
+        decimal carValue;
+
+        if (Year > 2000)
+            carValue = 10000;
+        else
+            carValue = 2000;
+
+        return carValue;
+    }
+}
+```
+
+## LINQ (Language Integrated Query Syntax)
+
+- To perform filter, sort and other aggregate operations on collections of data types
+
+- Two different styles of LINQ syntax
+  - *Query syntax*
+    - Resembles the SQL for querying database
+  - *Method syntax*
+    - 
+
+## Blank Solution
+
+- In Visual Studio, create `New Project` => `Blank Solution`
+  - Right click solution, `Add` => `New Project`

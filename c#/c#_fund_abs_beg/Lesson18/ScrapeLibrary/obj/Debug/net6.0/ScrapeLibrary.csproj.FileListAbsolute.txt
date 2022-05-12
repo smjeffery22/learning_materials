@@ -1,0 +1,12 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/bin/Debug/net6.0/ScrapeLibrary.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/bin/Debug/net6.0/ScrapeLibrary.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/bin/Debug/net6.0/ScrapeLibrary.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/obj/Debug/net6.0/ScrapeLibrary.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/obj/Debug/net6.0/ScrapeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/obj/Debug/net6.0/ScrapeLibrary.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/obj/Debug/net6.0/ScrapeLibrary.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/obj/Debug/net6.0/ScrapeLibrary.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/obj/Debug/net6.0/ScrapeLibrary.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/obj/Debug/net6.0/refint/ScrapeLibrary.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/obj/Debug/net6.0/ScrapeLibrary.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/Lesson18/ScrapeLibrary/obj/Debug/net6.0/ref/ScrapeLibrary.dll

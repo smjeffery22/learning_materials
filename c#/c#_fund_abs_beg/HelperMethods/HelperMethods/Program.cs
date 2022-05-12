@@ -56,6 +56,8 @@
         DisplayResult(message);
     }
 
+
+    // using string instead of void makes this method return something at the end
     private static string ReverseString(string message)
     {
         char[] messageArray = message.ToCharArray();

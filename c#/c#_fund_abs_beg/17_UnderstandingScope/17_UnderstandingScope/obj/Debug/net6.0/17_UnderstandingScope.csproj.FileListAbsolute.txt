@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/bin/Debug/net6.0/17_UnderstandingScope
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/bin/Debug/net6.0/17_UnderstandingScope.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/bin/Debug/net6.0/17_UnderstandingScope.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/bin/Debug/net6.0/17_UnderstandingScope.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/bin/Debug/net6.0/17_UnderstandingScope.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/17_UnderstandingScope.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/17_UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/17_UnderstandingScope.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/17_UnderstandingScope.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/17_UnderstandingScope.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/17_UnderstandingScope.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/refint/17_UnderstandingScope.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/17_UnderstandingScope.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/17_UnderstandingScope.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/17_UnderstandingScope/17_UnderstandingScope/obj/Debug/net6.0/ref/17_UnderstandingScope.dll

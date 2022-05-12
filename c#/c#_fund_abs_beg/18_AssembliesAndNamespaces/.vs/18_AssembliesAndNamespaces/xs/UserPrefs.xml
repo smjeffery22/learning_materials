@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{78BD36D2-B925-4BE6-B25F-35B2395BA6C7}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.18__AssembliesAndNamespaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="18_AssembliesAndNamespaces/Program.cs">
+    <Files>
+      <File FileName="../MyCodeLibrary/MyCodeLibrary/Class1.cs" Line="17" Column="11" />
+      <File FileName="18_AssembliesAndNamespaces/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="18_AssembliesAndNamespaces" expanded="True">
+            <Node name="18_AssembliesAndNamespaces" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="MyCodeLibrary" expanded="True">
+            <Node name="MyCodeLibrary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

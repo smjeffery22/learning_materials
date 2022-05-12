@@ -1,0 +1,12 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/bin/Release/net6.0/MyCodeLibrary.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/bin/Release/net6.0/MyCodeLibrary.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/bin/Release/net6.0/MyCodeLibrary.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/obj/Release/net6.0/MyCodeLibrary.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/obj/Release/net6.0/MyCodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/obj/Release/net6.0/MyCodeLibrary.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/obj/Release/net6.0/MyCodeLibrary.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/obj/Release/net6.0/MyCodeLibrary.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/obj/Release/net6.0/MyCodeLibrary.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/obj/Release/net6.0/refint/MyCodeLibrary.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/obj/Release/net6.0/MyCodeLibrary.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/MyCodeLibrary/MyCodeLibrary/obj/Release/net6.0/ref/MyCodeLibrary.dll

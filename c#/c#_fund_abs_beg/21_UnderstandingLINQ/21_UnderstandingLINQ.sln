@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_UnderstandingLINQ", "21_UnderstandingLINQ\21_UnderstandingLINQ.csproj", "{EB78F6B9-DBE9-4C65-AF06-A6E6D7D96A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB78F6B9-DBE9-4C65-AF06-A6E6D7D96A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB78F6B9-DBE9-4C65-AF06-A6E6D7D96A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB78F6B9-DBE9-4C65-AF06-A6E6D7D96A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB78F6B9-DBE9-4C65-AF06-A6E6D7D96A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FB2465A-8587-4910-90B2-1BC8A13A2B2A}
+	EndGlobalSection
+EndGlobal

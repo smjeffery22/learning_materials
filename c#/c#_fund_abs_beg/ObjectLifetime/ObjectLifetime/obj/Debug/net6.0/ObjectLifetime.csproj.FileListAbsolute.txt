@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/bin/Debug/net6.0/ObjectLifetime
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/bin/Debug/net6.0/ObjectLifetime.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/bin/Debug/net6.0/ObjectLifetime.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/bin/Debug/net6.0/ObjectLifetime.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/bin/Debug/net6.0/ObjectLifetime.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/ObjectLifetime.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/ObjectLifetime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/ObjectLifetime.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/ObjectLifetime.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/ObjectLifetime.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/ObjectLifetime.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/refint/ObjectLifetime.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/ObjectLifetime.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/ObjectLifetime.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/ObjectLifetime/ObjectLifetime/obj/Debug/net6.0/ref/ObjectLifetime.dll

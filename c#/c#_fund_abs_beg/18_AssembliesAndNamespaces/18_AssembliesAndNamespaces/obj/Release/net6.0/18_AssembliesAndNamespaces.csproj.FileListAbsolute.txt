@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/bin/Release/net6.0/18_AssembliesAndNamespaces
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/bin/Release/net6.0/18_AssembliesAndNamespaces.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/bin/Release/net6.0/18_AssembliesAndNamespaces.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/bin/Release/net6.0/18_AssembliesAndNamespaces.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/bin/Release/net6.0/18_AssembliesAndNamespaces.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/18_AssembliesAndNamespaces.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/18_AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/18_AssembliesAndNamespaces.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/18_AssembliesAndNamespaces.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/18_AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/18_AssembliesAndNamespaces.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/refint/18_AssembliesAndNamespaces.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/18_AssembliesAndNamespaces.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/18_AssembliesAndNamespaces.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/18_AssembliesAndNamespaces/18_AssembliesAndNamespaces/obj/Release/net6.0/ref/18_AssembliesAndNamespaces.dll

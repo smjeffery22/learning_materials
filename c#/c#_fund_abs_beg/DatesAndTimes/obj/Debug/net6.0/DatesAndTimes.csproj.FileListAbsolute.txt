@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/bin/Debug/net6.0/DatesAndTimes
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/bin/Debug/net6.0/DatesAndTimes.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/bin/Debug/net6.0/DatesAndTimes.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/bin/Debug/net6.0/DatesAndTimes.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/bin/Debug/net6.0/DatesAndTimes.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/DatesAndTimes.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/DatesAndTimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/DatesAndTimes.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/DatesAndTimes.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/DatesAndTimes.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/DatesAndTimes.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/refint/DatesAndTimes.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/DatesAndTimes.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/DatesAndTimes.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/DatesAndTimes/obj/Debug/net6.0/ref/DatesAndTimes.dll

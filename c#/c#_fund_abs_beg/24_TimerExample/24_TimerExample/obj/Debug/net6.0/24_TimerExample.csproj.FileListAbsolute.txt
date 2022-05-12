@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/24_TimerExample.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/24_TimerExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/24_TimerExample.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/24_TimerExample.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/24_TimerExample.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/bin/Debug/net6.0/24_TimerExample
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/bin/Debug/net6.0/24_TimerExample.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/bin/Debug/net6.0/24_TimerExample.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/bin/Debug/net6.0/24_TimerExample.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/bin/Debug/net6.0/24_TimerExample.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/24_TimerExample.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/refint/24_TimerExample.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/24_TimerExample.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/24_TimerExample.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/24_TimerExample/24_TimerExample/obj/Debug/net6.0/ref/24_TimerExample.dll

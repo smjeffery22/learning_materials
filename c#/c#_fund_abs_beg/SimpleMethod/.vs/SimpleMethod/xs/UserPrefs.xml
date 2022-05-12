@@ -6,13 +6,13 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.SimpleMethod PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleMethod/Program.cs">
-    <Files>
-      <File FileName="SimpleMethod/Program.cs" Line="5" Column="22" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+          <Node name="HelperMethods" expanded="True">
+            <Node name="HelperMethods" expanded="True" />
+          </Node>
           <Node name="SimpleMethod" expanded="True">
             <Node name="SimpleMethod" expanded="True" />
           </Node>

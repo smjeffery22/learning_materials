@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/bin/Debug/net6.0/WhileIteration
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/bin/Debug/net6.0/WhileIteration.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/bin/Debug/net6.0/WhileIteration.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/bin/Debug/net6.0/WhileIteration.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/bin/Debug/net6.0/WhileIteration.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/WhileIteration.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/WhileIteration.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/WhileIteration.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/WhileIteration.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/WhileIteration.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/refint/WhileIteration.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/WhileIteration.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/WhileIteration.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WhileIteration/WhileIteration/obj/Debug/net6.0/ref/WhileIteration.dll

@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/bin/Debug/net6.0/20_WorkingWithCollections
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/bin/Debug/net6.0/20_WorkingWithCollections.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/bin/Debug/net6.0/20_WorkingWithCollections.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/bin/Debug/net6.0/20_WorkingWithCollections.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/bin/Debug/net6.0/20_WorkingWithCollections.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/20_WorkingWithCollections.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/20_WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/20_WorkingWithCollections.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/20_WorkingWithCollections.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/20_WorkingWithCollections.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/20_WorkingWithCollections.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/refint/20_WorkingWithCollections.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/20_WorkingWithCollections.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/20_WorkingWithCollections.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/20_WorkingWithCollections/20_WorkingWithCollections/obj/Debug/net6.0/ref/20_WorkingWithCollections.dll

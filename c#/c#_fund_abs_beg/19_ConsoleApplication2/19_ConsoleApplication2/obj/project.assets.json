@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/jp/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/19_ConsoleApplication2/19_ConsoleApplication2/19_ConsoleApplication2.csproj",
+      "projectName": "19_ConsoleApplication2",
+      "projectPath": "/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/19_ConsoleApplication2/19_ConsoleApplication2/19_ConsoleApplication2.csproj",
+      "packagesPath": "/Users/jp/.nuget/packages/",
+      "outputPath": "/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/19_ConsoleApplication2/19_ConsoleApplication2/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jp/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

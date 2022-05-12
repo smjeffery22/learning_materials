@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/bin/Debug/net6.0/SimpleClasses
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/bin/Debug/net6.0/SimpleClasses.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/bin/Debug/net6.0/SimpleClasses.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/bin/Debug/net6.0/SimpleClasses.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/bin/Debug/net6.0/SimpleClasses.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/SimpleClasses.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/SimpleClasses.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/SimpleClasses.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/SimpleClasses.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/SimpleClasses.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/refint/SimpleClasses.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/SimpleClasses.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/SimpleClasses.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/SimpleClasses/SimpleClasses/obj/Debug/net6.0/ref/SimpleClasses.dll

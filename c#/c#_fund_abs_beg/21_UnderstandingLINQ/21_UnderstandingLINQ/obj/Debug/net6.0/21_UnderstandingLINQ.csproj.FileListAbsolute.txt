@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/bin/Debug/net6.0/21_UnderstandingLINQ
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/bin/Debug/net6.0/21_UnderstandingLINQ.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/bin/Debug/net6.0/21_UnderstandingLINQ.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/bin/Debug/net6.0/21_UnderstandingLINQ.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/bin/Debug/net6.0/21_UnderstandingLINQ.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/21_UnderstandingLINQ.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/21_UnderstandingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/21_UnderstandingLINQ.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/21_UnderstandingLINQ.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/21_UnderstandingLINQ.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/21_UnderstandingLINQ.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/refint/21_UnderstandingLINQ.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/21_UnderstandingLINQ.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/21_UnderstandingLINQ.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/21_UnderstandingLINQ/21_UnderstandingLINQ/obj/Debug/net6.0/ref/21_UnderstandingLINQ.dll

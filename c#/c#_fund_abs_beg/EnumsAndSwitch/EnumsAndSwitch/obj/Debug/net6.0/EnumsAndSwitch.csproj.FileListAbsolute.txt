@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/EnumsAndSwitch.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/EnumsAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/EnumsAndSwitch.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/EnumsAndSwitch.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/EnumsAndSwitch.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/net6.0/EnumsAndSwitch
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/net6.0/EnumsAndSwitch.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/net6.0/EnumsAndSwitch.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/net6.0/EnumsAndSwitch.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/bin/Debug/net6.0/EnumsAndSwitch.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/EnumsAndSwitch.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/refint/EnumsAndSwitch.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/EnumsAndSwitch.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/EnumsAndSwitch.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/EnumsAndSwitch/EnumsAndSwitch/obj/Debug/net6.0/ref/EnumsAndSwitch.dll

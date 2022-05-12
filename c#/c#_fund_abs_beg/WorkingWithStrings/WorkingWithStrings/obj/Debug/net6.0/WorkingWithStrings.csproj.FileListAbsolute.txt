@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/bin/Debug/net6.0/WorkingWithStrings
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/bin/Debug/net6.0/WorkingWithStrings.deps.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/bin/Debug/net6.0/WorkingWithStrings.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/bin/Debug/net6.0/WorkingWithStrings.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/bin/Debug/net6.0/WorkingWithStrings.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/WorkingWithStrings.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/WorkingWithStrings.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/WorkingWithStrings.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/WorkingWithStrings.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/WorkingWithStrings.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/refint/WorkingWithStrings.dll
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/WorkingWithStrings.pdb
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/WorkingWithStrings.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_fund_abs_beg/WorkingWithStrings/WorkingWithStrings/obj/Debug/net6.0/ref/WorkingWithStrings.dll
