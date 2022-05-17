@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2BE335ED-F280-4800-B330-E0E74C9DB1EF}|Default">
+  <MonoDevelop.Ide.ItemProperties.WiredBrainCoffeeSurveys PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WiredBrainCoffeeSurveys" expanded="True">
+            <Node name="WiredBrainCoffeeSurveys" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="SurveyResponse.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

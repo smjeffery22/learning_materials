@@ -22,7 +22,6 @@
   - Class libraries are split into multiple code files to avoid loading the entire library into memory every time
     - Codes files are called `.NET assemblies`
      
-
 ### .NET 6.0
 
 - Latest version of .NET and cross platform implementation of .NET
@@ -48,12 +47,117 @@
 
 - Contains full suite of tools and features
 
+```C#
+using System;
+
+namespace Practice
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+```
+
+- `using System` allows to use System namespace that contains class libraries
+
+- `void` method does not return anything
+  - If a method returns a value, its type must be specified
+
+- `Main` method is where the program begins
+  - When the program is run, .NET looks for the Main method and automatically calls the method
+  - Methods cannot stand on its own; need a class to contain it
+
+- `string[] args` is equivalent to command line args from JavaScript
+
 ###
 
 - `dotnet new console` to start with .NET application
   - `Program.cs` is the main file
   - `demos.csproj` is the settings file to compile and run program
   - `obj` folder is where the binaries are going to be contained
+
+## Namespaces
+
+- Namespaces can be imported into each other using `using Namespace` at the top of the code
+
+```C#
+// Program.cs
+using System;
+using WeatherUtilities = MyUtilities.WeatherUtilities; // to import a single method
+using MyUtilities;
+
+namespace MyFirstProgram
+{
+    class CheckComfort
+    {
+        static void Main(string[] args)
+        {
+            // MyUtilities.WeatherUtilities.Report("Toronto", 30, 50);
+            WeatherUtilities.CelsiusToFahrenheit(30);
+        }
+    }
+}
+
+// WeatherUtilities.cs
+using System;
+
+namespace MyUtilities
+{
+    class WeatherUtilities
+    {
+        private static float FahrenheitToCelsius(float temperatureFahrenheit)
+        {
+            var temperatureCelsius = temperatureFahrenheit - 32 / 1.8f;
+            return temperatureCelsius;
+        }
+
+        public static float CelsiusToFahrenheit(float temperatureCelsius)
+        {
+            return temperatureCelsius * 1.8f + 32;
+        }
+    }
+}
+```
+
+- Only `public` methods can be used in other files
+- `private` methods can only be accessed within the same file
+- `internal` methods are only accessible within the same assembly, but not from other assemblies
+
+## Projects and Solutions
+
+- *Project* produces a single thing, a *single assembly*
+  - Assembly is an executable file or a *.dll file*
+
+- *Solution* includes multiple projects, each producing its own assembly
+
+## Types and Variables
+
+### Value Type
+
+- *Value type* directly contain variables data
+  - Variables each have their own copy of the data
+  - Operations on one variable does not affect the other
+
+- Simple types
+- Enum types
+- Struct types
+- Nullable value types
+- Tuple value types
+
+### Reference Type
+
+- *Reference type* stores reference to variables data
+  - Possible for two variables to reference the same object
+  - Possible for operations on one variable to affect the object referenced by the other variable
+
+- Class types
+- Interface types
+- Array types
+- Delegate types
 
 ## Console Type
 
@@ -62,6 +166,26 @@
 
 ```C#
 Console.WriteLine("Hello World!");
+```
+
+## Built-in Types
+
+- *string:* sequences of characters
+- *char:* unicode UTF-16 characters
+- *bool:* booleans (true/false)
+
+## Type Inference
+
+- Shortcut for specifying the types using `var` keyword (optional)
+  - Type can be inferred from the context/expression
+  - Still type-safe
+
+```C#
+static float FahrenheitToCelsius(float temperatureFarenheit)
+{
+  // var will assign float type after the conversion
+  var temperatureCelsius = (temperatureFahrenheit - 32) / 1.8f;
+}
 ```
 
 ## String Type
@@ -187,6 +311,15 @@ for (int i = 0; i < 100; i++)
 ```
 
 ## Numeric Types
+
+- *sbyte:* 8 bits; from -128 to 127
+- *short:* 16 bits; from -32,768 to 32,767
+- *int:* 32 bits; from -2,147,483,648 to 2,147,483,647
+- *long:* 64 bits; from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+
+- *float:* 32 bits; floating point (~6-9 digits)
+- *double:* 64 bits; floating point (~6-9 digits)
+- *decimal:* 128 bits; floating point (~6-9 digits)
 
 ### Integer
 
@@ -543,3 +676,32 @@ class Car
 
 - In Visual Studio, create `New Project` => `Blank Solution`
   - Right click solution, `Add` => `New Project`
+
+## Program Flow
+
+- The order and conditions under which different parts of an application execute
+  - Provides structure around when and how our app takes certain actions or makes decisions, handles repetitive tasks, etc.
+
+- *Statements* are basic instructions that C# program executes to take action
+  - Written using a combination of C# *keywords* and *expressions*
+    - Expressions are combination of operands and operators
+    - Operator performs an action on an operand
+  - Small, complete tasks that can be assembled into very complex logic
+  - Order in which the statements collectively execute is called *program flow*
+  - Ex. declaring variables, math calculations, console, calling methods, etc.
+ 
+- *Selection statements* => if-else
+  - if (condition) { // do something}
+
+- *Iteration statements* => loops
+  - foreach (item in list) { // do something }
+
+- *Declaration statements* => creating variables
+  - string greeting;
+
+- *Expression statements* => perform tasks
+  - int sum = 50 + 50;
+
+- *Exception statements* => catch and address issues
+  - try { // risky code } catch { // fallback }
+

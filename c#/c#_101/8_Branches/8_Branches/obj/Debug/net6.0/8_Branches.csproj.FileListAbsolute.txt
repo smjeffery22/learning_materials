@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/bin/Debug/net6.0/8_Branches
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/bin/Debug/net6.0/8_Branches.deps.json
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/bin/Debug/net6.0/8_Branches.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/bin/Debug/net6.0/8_Branches.dll
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/bin/Debug/net6.0/8_Branches.pdb
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/8_Branches.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/8_Branches.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/8_Branches.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/8_Branches.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/8_Branches.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/8_Branches.dll
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/refint/8_Branches.dll
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/8_Branches.pdb
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/8_Branches.genruntimeconfig.cache
+/Users/jp/coding/learning_materials/c#/c#_101/8_Branches/8_Branches/obj/Debug/net6.0/ref/8_Branches.dll

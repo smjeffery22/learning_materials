@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.deps.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.runtimeconfig.dev.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/ref/MyFirstProgram.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/ref/MyFirstProgram.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/MyFirstProgram/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.genruntimeconfig.cache

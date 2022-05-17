@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/bin/Debug/net5.0/WiredBrainCoffeeSurveys.deps.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/bin/Debug/net5.0/WiredBrainCoffeeSurveys.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/bin/Debug/net5.0/WiredBrainCoffeeSurveys.runtimeconfig.dev.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/bin/Debug/net5.0/WiredBrainCoffeeSurveys.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/bin/Debug/net5.0/ref/WiredBrainCoffeeSurveys.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/bin/Debug/net5.0/WiredBrainCoffeeSurveys.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/obj/Debug/net5.0/WiredBrainCoffeeSurveys.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/obj/Debug/net5.0/WiredBrainCoffeeSurveys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/obj/Debug/net5.0/WiredBrainCoffeeSurveys.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/obj/Debug/net5.0/WiredBrainCoffeeSurveys.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/obj/Debug/net5.0/WiredBrainCoffeeSurveys.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/obj/Debug/net5.0/WiredBrainCoffeeSurveys.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/obj/Debug/net5.0/ref/WiredBrainCoffeeSurveys.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/obj/Debug/net5.0/WiredBrainCoffeeSurveys.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WiredBrainCoffeeSurveys/WiredBrainCoffeeSurveys/obj/Debug/net5.0/WiredBrainCoffeeSurveys.genruntimeconfig.cache
