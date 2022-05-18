@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{9FA51E2A-8F4A-4FCE-8C2F-275B91872E47}|Default">
-  <MonoDevelop.Ide.ItemProperties.JeffsPieShopHRM PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="JeffsPieShopHRM/Program.cs">
+﻿<Properties StartupConfiguration="{EFB4AAC5-7771-40A2-9809-94EB93C4E2A1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithMethods/Program.cs">
     <Files>
-      <File FileName="JeffsPieShopHRM/Program.cs" Line="242" Column="14" />
+      <File FileName="WorkingWithMethods/Program.cs" Line="41" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="JeffsPieShopHRM" expanded="True">
-            <Node name="JeffsPieShopHRM" expanded="True">
+          <Node name="WorkingWithMethods" expanded="True">
+            <Node name="WorkingWithMethods" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,6 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WorkingWithMethods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

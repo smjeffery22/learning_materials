@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace JeffsPieShopHRM
 {
@@ -34,8 +35,8 @@ namespace JeffsPieShopHRM
 
             Console.WriteLine();
 
-            bool a; // default value of false
-            int b; // default value of 0
+            //bool a; // default value of false
+            //int b; // default value of 0
 
             int intMaxValue = int.MaxValue;
             int intMinValue = int.MinValue;
@@ -157,7 +158,103 @@ namespace JeffsPieShopHRM
 
             Console.WriteLine($"Equal? ({firstName == lastName})");
 
-            Console.ReadLine();
+            Console.WriteLine();
+
+            string a = "Hello";
+            string b;
+
+            b = a;
+            b += " world";
+
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+
+            Console.WriteLine();
+
+            StringBuilder stringBuilder = new StringBuilder();
+
+            stringBuilder.Append("Employee list");
+            stringBuilder.AppendLine("Bethany Smith");
+            stringBuilder.AppendLine("George Jones");
+            stringBuilder.AppendLine("Gill Cleeren");
+            Console.WriteLine($"stringBuilder: {stringBuilder}");
+
+            string list = stringBuilder.ToString();
+            Console.WriteLine($"list: {list}");
+
+            Console.WriteLine();
+
+            string name = "Jeffery";
+            string anotherName = name;
+
+            name += " Park"; // a new string is created and name is pointed to that new string
+
+            Console.WriteLine("name: " + name);
+            Console.WriteLine("anotherName: " + anotherName); // still pointing to the original name
+
+            // does not touch the original string
+            // returns a copy of the original srting with lowercase
+            string lowerCaseName = name.ToLower();
+
+            // for loop will create 2500 different strings and take up memory, but typical
+            // use of StringBuilder could be beneficial
+            string indexes = string.Empty;
+            for (int i = 0; i < 2500; i++)
+            {
+                indexes += i.ToString();
+            }
+
+            Console.WriteLine();
+
+            StringBuilder builder = new StringBuilder();
+
+            builder.Append("Last name: ");
+            builder.AppendLine(lastName);
+            builder.Append("First name: ");
+            builder.Append(firstName);
+                        
+            string result = builder.ToString();
+
+            Console.WriteLine(result);
+
+            Console.WriteLine();
+
+            string s = "22";
+            Console.WriteLine(s);
+
+
+            double wage = double.Parse(s);
+            Console.WriteLine(wage);
+
+            bool active = bool.Parse("true");
+            Console.WriteLine(active);
+
+            Console.WriteLine();
+
+            Console.WriteLine("Enter the wage:");
+            string myWage = Console.ReadLine();
+
+            //int wageValue = int.Parse(myWage);
+            int wageValue;
+
+            // pass in myWage and see if it can be parsed into wageValue type
+            if (int.TryParse(myWage, out wageValue))
+            {
+                Console.WriteLine("Parsing success: " + wageValue);
+            }
+            else
+            {
+                Console.WriteLine("Parsing failed");
+            }
+
+            Console.WriteLine();
+
+            string hireDateString = "12/12/2020";
+            DateTime myHireDate = DateTime.Parse(hireDateString);
+            Console.WriteLine("Parsed date: " + myHireDate);
+
+
+            //Console.ReadLine();
         }
     }
 }

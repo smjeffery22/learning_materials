@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/bin/Debug/net5.0/WorkingWithMethods.deps.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/bin/Debug/net5.0/WorkingWithMethods.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/bin/Debug/net5.0/WorkingWithMethods.runtimeconfig.dev.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/bin/Debug/net5.0/WorkingWithMethods.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/bin/Debug/net5.0/ref/WorkingWithMethods.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/bin/Debug/net5.0/WorkingWithMethods.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/obj/Debug/net5.0/WorkingWithMethods.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/obj/Debug/net5.0/WorkingWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/obj/Debug/net5.0/WorkingWithMethods.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/obj/Debug/net5.0/WorkingWithMethods.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/obj/Debug/net5.0/WorkingWithMethods.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/obj/Debug/net5.0/WorkingWithMethods.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/obj/Debug/net5.0/ref/WorkingWithMethods.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/obj/Debug/net5.0/WorkingWithMethods.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/WorkingWithMethods/WorkingWithMethods/obj/Debug/net5.0/WorkingWithMethods.genruntimeconfig.cache
