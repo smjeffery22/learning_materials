@@ -139,6 +139,7 @@ namespace MyUtilities
 ### Value Type
 
 - *Value type* directly contain variables data
+  - Data stored on the stack
   - Variables each have their own copy of the data
   - Operations on one variable does not affect the other
 
@@ -151,6 +152,7 @@ namespace MyUtilities
 ### Reference Type
 
 - *Reference type* stores reference to variables data
+  - Data stored on the heap
   - Possible for two variables to reference the same object
   - Possible for operations on one variable to affect the object referenced by the other variable
 
@@ -177,6 +179,7 @@ Console.WriteLine("Hello World!");
 ## Type Inference
 
 - Shortcut for specifying the types using `var` keyword (optional)
+  - Implicit typing
   - Type can be inferred from the context/expression
   - Still type-safe
 

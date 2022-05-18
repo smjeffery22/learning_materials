@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/bin/Debug/net5.0/JeffsPieShopHRM.deps.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/bin/Debug/net5.0/JeffsPieShopHRM.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/bin/Debug/net5.0/JeffsPieShopHRM.runtimeconfig.dev.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/bin/Debug/net5.0/JeffsPieShopHRM.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/bin/Debug/net5.0/ref/JeffsPieShopHRM.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/bin/Debug/net5.0/JeffsPieShopHRM.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/obj/Debug/net5.0/JeffsPieShopHRM.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/obj/Debug/net5.0/JeffsPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/obj/Debug/net5.0/JeffsPieShopHRM.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/obj/Debug/net5.0/JeffsPieShopHRM.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/obj/Debug/net5.0/JeffsPieShopHRM.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/obj/Debug/net5.0/JeffsPieShopHRM.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/obj/Debug/net5.0/ref/JeffsPieShopHRM.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/obj/Debug/net5.0/JeffsPieShopHRM.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/JeffsPieShopHRM/JeffsPieShopHRM/obj/Debug/net5.0/JeffsPieShopHRM.genruntimeconfig.cache
