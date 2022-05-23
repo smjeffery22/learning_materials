@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{001DA6F6-3A53-4C35-A5A2-3586C0F0D3D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PeopleViewer/Controllers/PeopleController.cs">
+    <Files>
+      <File FileName="People.Library/PersonReader.cs" Line="16" Column="19" />
+      <File FileName="PeopleViewer/Controllers/PeopleController.cs" Line="28" Column="38" />
+      <File FileName="PeopleViewer/Views/People/Index.cshtml" Line="2" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FutureProofing" expanded="True">
+            <Node name="Common" expanded="True" />
+            <Node name="People.Library" expanded="True" />
+            <Node name="People.Service" expanded="True" />
+            <Node name="PeopleViewer" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PeopleController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="People" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.People.Service PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

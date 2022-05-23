@@ -1,0 +1,17 @@
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/bin/Debug/net5.0/SystemTypes.deps.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/bin/Debug/net5.0/SystemTypes.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/bin/Debug/net5.0/SystemTypes.runtimeconfig.dev.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/bin/Debug/net5.0/SystemTypes.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/bin/Debug/net5.0/ref/SystemTypes.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/bin/Debug/net5.0/SystemTypes.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/SystemTypes.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/SystemTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/SystemTypes.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/SystemTypes.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/SystemTypes.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/SystemTypes.csproj.CopyComplete
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/SystemTypes.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/ref/SystemTypes.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/SystemTypes.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/SystemTypes/SystemTypes/obj/Debug/net5.0/SystemTypes.genruntimeconfig.cache

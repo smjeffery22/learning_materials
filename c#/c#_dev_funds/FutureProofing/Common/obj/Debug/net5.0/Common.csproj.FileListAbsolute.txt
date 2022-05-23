@@ -1,0 +1,12 @@
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/bin/Debug/net5.0/Common.deps.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/bin/Debug/net5.0/Common.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/bin/Debug/net5.0/Common.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/Debug/net5.0/Common.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/Debug/net5.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/Debug/net5.0/Common.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/Debug/net5.0/Common.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/Debug/net5.0/Common.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/Debug/net5.0/Common.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/Debug/net5.0/refint/Common.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/Debug/net5.0/Common.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/Debug/net5.0/ref/Common.dll

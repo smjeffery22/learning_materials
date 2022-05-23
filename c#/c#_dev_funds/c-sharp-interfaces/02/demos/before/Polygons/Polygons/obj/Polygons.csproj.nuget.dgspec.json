@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons/Polygons.csproj": {}
+  },
+  "projects": {
+    "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons.Library/Polygons.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons.Library/Polygons.Library.csproj",
+        "projectName": "Polygons.Library",
+        "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons.Library/Polygons.Library.csproj",
+        "packagesPath": "/Users/jp/.nuget/packages/",
+        "outputPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons.Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons/Polygons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons/Polygons.csproj",
+        "projectName": "Polygons",
+        "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons/Polygons.csproj",
+        "packagesPath": "/Users/jp/.nuget/packages/",
+        "outputPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons.Library/Polygons.Library.csproj": {
+                "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/c-sharp-interfaces/02/demos/before/Polygons/Polygons.Library/Polygons.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

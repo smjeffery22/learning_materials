@@ -266,3 +266,442 @@ public int AddNumbers(int a, int b, int c = 100)
   ...
 }
 ```
+
+## Common Type System (CTS)
+
+- .NET specific
+
+- Defines a framework/standard that languages can rely on to be able to interact with one another
+
+- Defines how type definitions and values are handled in memory
+
+- Shared across multiple languages including C#
+
+### Type Hierarchy
+
+- At the top of the hierarchy, there is the *Object* type
+  - Every other type will be derived (inherited) from the Object type
+
+### Five Categories of Types
+
+1. Enumeration (value types)
+2. Struct (value types)
+3. Class (reference types)
+4. Interface (reference types)
+5. Delegate (reference types)
+
+### Types in .NET and C#
+
+- *Value data types*
+  - Data stored on the *stack*
+  - Predefined data types
+    - Integer
+    - Boolean
+  - User defined types
+    - Enumeration
+    - Struct
+
+- *Reference data types*
+  - Data stored on the *heap*
+  - Predefined data types
+    - String
+    - Array
+  - User defined types
+    - Class
+    - Interface
+
+## Custom Types
+
+- In .NET, there is the *Base Class Library (BCL)*
+  - Large library used to write C# applications
+  - Contains a huge number of custom types (mostly classes)
+
+- Classes are grouped in *namespaces*
+  - Way to organize types while in groups
+  - Can have multiple types with the same name, as long as they live in a different namespace
+
+- *using* keyword only brings the types within the specified namespace, not the ones in nested namespaces
+
+```C#
+using System
+
+System
+  - System.Web
+  - System.IO
+  - System.Windows
+  - System.Data
+    - System.Data.Common
+    - System.Data.SqlTypes
+```
+
+### Class
+
+- Reference type and most commonly used
+  - Struct is similar, but not used as often because it is a value type
+
+- To create an empty class in Visual Studio
+  - Right Click File - Add - New File - Empty Class
+
+- *Object* is an instance of a class
+  - Process of creating an object is called *instantiation*
+  - Created using `new` keyword
+
+- Variable contains a reference to the object (*pointer*)
+
+- *Constructor* is automatically called when an object is instantiated
+  - Same name as the class name
+  - Default or custom
+  - Used to set initial values
+  - Typically comes after variable initialization
+
+- If a variable is assigned to another variable, they both point to the same object in memory
+  - Two references pointing to the same object
+  - Changing data in one changes the data in both variables
+
+#### Access Modifiers
+
+- *Public* methods are part of public API of the class
+  - Can be used outside the class
+  - Can be invoked on objects of the class
+
+- *Private* methods/fields are only accessible from within the class
+  - For methods that you don't want anyone to use directly
+
+- *Protected:* functionality is available for the class and its inheritance
+
+#### Properties
+
+- Properties are members of a class, like methods
+  - Wraps data (fields) of a class
+  - Hide implementation
+  - Define *get* and *set* implementation
+
+- Can include logic such as validating if the passed value is valid
+  - Both for getting access to the actual value, as well as for setting the value
+  - Hidden and internally works 
+
+- Properties are typically public
+  - Same type as the field it is wrapping
+    - Field typically private
+      - Need to use set in property to change data
+  - Typically the same name as the field in PascalCase
+    - Use this PascalCase name throughout
+
+#### Custom Namespaces
+
+- Folders can be created and contain files with custom namespaces
+  - `NamespaceName.FolderName`
+  - Dot notation to create namespace within namespace
+  - Include `using NamespaceName.FolderName` to import namespace in another namespace
+
+#### Static
+
+- Values defined with *static* keyword will not be instantiated
+  - Defined on the *class level*
+  - Shared for all objects of the given type
+  - If the value is changed, it is changed for all objects
+  - Cannot be accessed through objects, only through class
+
+- Inside static methods, only static data can be used
+
+- Constant variables can be created using `const` keyword
+  - Value must be initialized upon variable initialization
+
+#### Null
+
+- When a variable is created using class, but an object is not instantiated, the variable is *null*
+  - Variable declared on Stack, but not pointing to an object on Heap
+  - Cannot call any methods (runtime error)
+
+- Nullable value types can be created using `?` in data type
+  - `int? a = null`
+
+- `Null coalescing operator` allows to set default value for a null variable
+  - `hourlyRate = rate ?? 10;` sets rate as 10 if rate is null
+  - `double wageBeforeTax = numberOfHoursWorked * hourlyRate.Value;` .Value allows to use the value of nullable variable
+
+#### Garbage Collection
+
+- When an object is created and set to null:
+  - Object still exists in memory without any reference pointing to it
+    - Memory wasted
+  - Link it broken
+
+- Garbage collection is a process that runs in the background (.NET feature)
+  - Runs through the memory and looks for objects with no reference
+    - Considered unreachable and removed from memory automatically
+
+- Common Language Runtime (CLR) will automatically run garbage collection when the memory is low
+
+```C#
+// Left side: create variable
+//  Employee: variable type
+//  employee: variable name
+// Right side: create object
+//  Employee: class
+//  ("Jeffery", 29): constructor arguments
+Employee employee = new Employee("Jeffery", 29); // Instantiating the object
+employee.PerformWork(); // Invoking a method
+employee.firstName = "Jeff"; // Changing a field
+int wage = employee.ReceiveWage(); // Returning a value from a method
+
+////////////////////////////////////////////////
+
+Employee employee = new Employee();
+employee.FirstName = "Jeffery" // Setting a value through a property
+int empFirstName = employee.FirstName; // Getting the value through a property
+
+public class Employee
+{
+    public string firstName;
+    public string lastName;
+    public int age;
+
+    // Constructor
+    public Employee(string firstName, int ageValue)
+    {
+      firstName = firstName;
+      age = ageValue;
+    }
+
+    ////////////////////////////////////////////////
+
+    private string firstName;
+    public string FirstName
+    {
+      get { return firstName };
+      set
+      {
+        firstName = value;
+      }
+    }
+}
+```
+
+### Struct
+
+- Value type and similar to Class with a few specific properties
+
+- Allows to create a custom data structure
+  - For lightweight structures (limited amount of data)
+
+- Can contain methods and other members 
+
+- `Field` is a variable defined on the struct root level
+
+```C#
+struct Employee
+{
+  public string Name;
+  public string Department;
+  public void GetPaid()
+  {
+    // Code to pay out wage
+  }
+}
+
+Employee employee (strcut name - variable name)
+employee.Name = "Bethany"; // Name field
+employee.Department = "Sales"; // Department field
+```
+
+### Enumeration
+
+- Named constants for improved readability
+
+- Created using `enum` keyword
+  - Name of the enum becomes a custom type
+
+```C#
+static void Main(string[] args)
+{
+    UsingEnumerations(); 
+}
+
+private static void UsingEnumerations()
+{
+    EmployeeType employeeType = EmployeeType.Manager;
+    StoreType storeType = StoreType.FullPieRestaurant;
+
+    int baseWage = 1000;
+
+    CalculateWage(baseWage, employeeType, storeType);
+}
+
+// Using custom-created types in parameters
+private static void CalculateWage(int baseWage, EmployeeType employeeType, StoreType storeType)
+{
+    int calculatedWage = 0;
+
+    if (employeeType == EmployeeType.Manager)
+    {
+        calculatedWage = baseWage * 3;
+    }   else
+    {
+        calculatedWage *= 2;
+    }
+
+    if (storeType == StoreType.FullPieRestaurant)
+    {
+        calculatedWage += 500;
+    }
+
+    Console.WriteLine($"The calculated wage is {calculatedWage}.");
+}
+
+// default values start from 0    
+enum EmployeeType
+{
+    Sales, // 0
+    Manager, // 1
+    Research, // 2
+    StoreManager // 3
+}
+
+// values can be assinged
+enum StoreType
+{
+    PieCorner = 10,
+    Seating = 20,
+    FullPieRestaurant = 100,
+    Undefined = 99
+}
+```
+
+## Inheritance
+
+- Object gets data and functionality from parent
+  - Reusability of code
+  - Can inherit multiple levels deep
+
+- Parent (base) class contains the shared functionality
+
+- Derived (child) class adds specific functionality
+
+- Members defined as private on the base class are not accessible (internal to the class)
+  - Cannot be accessed by inheriting types
+  - Public and private members are accessible by inheriting types
+
+### Sealed Class
+
+- `sealed` keyword is used to prevent a class from being inherited
+
+```C#
+public sealed class Developer : Employee
+{
+  ...
+}
+
+// Error: JuniorDeveloper cannot derive from sealed type Developer
+public class JuniorDeveloper : Developer
+{
+  ...
+}
+```
+
+### Abstract Class
+
+- Used to model a concept, something abstract
+  - Ex. to group common functionality, but not allowing to instantiate
+
+- Missing complete implementation
+
+- Cannot be instantiated, but can be inherited
+
+- Abstract method must be overridden in the inherited class to provide implementation
+  - Abstract method cannot contain a body (i.e. code)
+  - If implementation is not provided, cannto build
+
+```C#
+public abstract class Employee
+{
+  public abstract void ReceiveWage();
+}
+
+public class Manager : Employee
+{
+  public override void ReceiveWage()
+  {
+    ...
+  }
+}
+```
+
+## Polymorphism
+
+- Override a base class method with a new implementation
+  - Allows to give different forms to the same method
+
+- Uses `virtual` and `override` keywords
+  - Use virtual keyword in base class to specify that the method can be overridden
+  - Use override keyword in inherited class to override the method
+
+```C#
+public class Employee
+{
+  public virtual void PerformWork()
+  {
+    ...
+  }
+}
+
+public class Manager : Employee
+{
+  public override void PerformWork()
+  {
+    ...
+  }
+}
+```
+
+## Interfaces
+
+- Define a contract that must be implemented by classes that use it
+
+- Uses `interface` keyword
+
+- Typically contain no implementation code
+  - Up to implementing classes to provide it
+  - Interfaces can provide default implementation that will be used if the class does not provide one
+
+- Cannot be instantiated, similar to abstract
+
+- Interface name typically starts with `I`
+
+```C#
+public interface IEmployee
+{
+  void PerformWork(); // no implementation code
+}
+
+public void Manager: IEmployee
+{
+  public void PerformWork()
+  {
+    ... // implementation code provided
+  }
+}
+```
+
+- Implementing an interface is similar to inheriting from base class
+  - Manager class implements the contract (IEmployee or interface)
+  - Class is assigning the contract
+    - An implementation must be provided for every method without an implementation in the interface
+
+- Abstract classes: only single inheritance is permitted
+
+- Interface: possible to implement more than one interface on a single class
+
+### Commonly Used Interfaces in C#
+
+- `IComparable` interface defines a method that is typically used to compare two objects of a certain type with each other
+
+- `IEquatable` interface is used to provide a functionality to check equality between two objects
+
+- `ICloneable` interface is used to provide a method that clones an object
+
+- `IEnumerable` provides a way to enumerate the items in a list
+
+- `IList` interface is related to IEnumerable; implemented by collection classes that allow accessing elements using an index
+
+- `IDisposable` interface is used to provide a way to dispose of unmanaged resources

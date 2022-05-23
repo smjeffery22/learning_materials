@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/PeopleViewer/PeopleViewer.csproj": {}
+  },
+  "projects": {
+    "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/Common.csproj",
+        "packagesPath": "/Users/jp/.nuget/packages/",
+        "outputPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/People.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/People.Library.csproj",
+        "projectName": "People.Library",
+        "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/People.Library.csproj",
+        "packagesPath": "/Users/jp/.nuget/packages/",
+        "outputPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/Common.csproj": {
+                "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/PeopleViewer/PeopleViewer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/PeopleViewer/PeopleViewer.csproj",
+        "projectName": "PeopleViewer",
+        "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/PeopleViewer/PeopleViewer.csproj",
+        "packagesPath": "/Users/jp/.nuget/packages/",
+        "outputPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/PeopleViewer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/Common.csproj": {
+                "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/Common/Common.csproj"
+              },
+              "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/People.Library.csproj": {
+                "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/People.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

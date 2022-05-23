@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Polygons.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Polygons.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Polygons.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polygons.Library/1.0.0": {
+      "type": "project",
+      "path": "../Polygons.Library/Polygons.Library.csproj",
+      "msbuildProject": "../Polygons.Library/Polygons.Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Polygons.Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jp/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons/Polygons.csproj",
+      "projectName": "Polygons",
+      "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons/Polygons.csproj",
+      "packagesPath": "/Users/jp/.nuget/packages/",
+      "outputPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jp/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/Polygons.Library.csproj": {
+              "projectPath": "/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/Polygons.Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/bin/Debug/net5.0/ClassesAndObjects.deps.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/bin/Debug/net5.0/ClassesAndObjects.runtimeconfig.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/bin/Debug/net5.0/ClassesAndObjects.runtimeconfig.dev.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/bin/Debug/net5.0/ClassesAndObjects.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/bin/Debug/net5.0/ref/ClassesAndObjects.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/bin/Debug/net5.0/ClassesAndObjects.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/obj/Debug/net5.0/ClassesAndObjects.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/obj/Debug/net5.0/ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/obj/Debug/net5.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/obj/Debug/net5.0/ClassesAndObjects.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/obj/Debug/net5.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/obj/Debug/net5.0/ClassesAndObjects.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/obj/Debug/net5.0/ref/ClassesAndObjects.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/obj/Debug/net5.0/ClassesAndObjects.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/ClassesAndObjects/ClassesAndObjects/obj/Debug/net5.0/ClassesAndObjects.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/bin/Debug/net5.0/People.Library.deps.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/bin/Debug/net5.0/People.Library.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/bin/Debug/net5.0/People.Library.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/bin/Debug/net5.0/Common.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/bin/Debug/net5.0/Common.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/People.Library.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/People.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/People.Library.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/People.Library.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/People.Library.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/People.Library.csproj.CopyComplete
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/People.Library.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/refint/People.Library.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/People.Library.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/FutureProofing/People.Library/obj/Debug/net5.0/ref/People.Library.dll

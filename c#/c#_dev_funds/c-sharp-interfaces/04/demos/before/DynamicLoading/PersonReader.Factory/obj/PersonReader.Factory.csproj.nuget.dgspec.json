@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Factory\\PersonReader.Factory.csproj": {}
+  },
+  "projects": {
+    "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.CSV\\PersonReader.CSV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.CSV\\PersonReader.CSV.csproj",
+        "projectName": "PersonReader.CSV",
+        "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.CSV\\PersonReader.CSV.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.CSV\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Factory\\PersonReader.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Factory\\PersonReader.Factory.csproj",
+        "projectName": "PersonReader.Factory",
+        "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Factory\\PersonReader.Factory.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.CSV\\PersonReader.CSV.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.CSV\\PersonReader.CSV.csproj"
+              },
+              "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj"
+              },
+              "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Service\\PersonReader.Service.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Service\\PersonReader.Service.csproj"
+              },
+              "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.SQL\\PersonReader.SQL.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.SQL\\PersonReader.SQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj",
+        "projectName": "PersonReader.Interface",
+        "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Service\\PersonReader.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Service\\PersonReader.Service.csproj",
+        "projectName": "PersonReader.Service",
+        "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Service\\PersonReader.Service.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.SQL\\PersonReader.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.SQL\\PersonReader.SQL.csproj",
+        "projectName": "PersonReader.SQL",
+        "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.SQL\\PersonReader.SQL.csproj",
+        "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jerem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj": {
+                "projectPath": "D:\\Development\\Pluralsight\\01c Interfaces\\Module4\\demo\\configuration\\DynamicLoading\\PersonReader.Interface\\PersonReader.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

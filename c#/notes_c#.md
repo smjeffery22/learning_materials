@@ -139,7 +139,7 @@ namespace MyUtilities
 ### Value Type
 
 - *Value type* directly contain variables data
-  - Data stored on the stack
+  - Data stored on the *stack*
   - Variables each have their own copy of the data
   - Operations on one variable does not affect the other
 
@@ -152,7 +152,7 @@ namespace MyUtilities
 ### Reference Type
 
 - *Reference type* stores reference to variables data
-  - Data stored on the heap
+  - Data stored on the *heap*
   - Possible for two variables to reference the same object
   - Possible for operations on one variable to affect the object referenced by the other variable
 

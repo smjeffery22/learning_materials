@@ -1,0 +1,12 @@
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/bin/Debug/net5.0/Polygons.Library.deps.json
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/bin/Debug/net5.0/Polygons.Library.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/bin/Debug/net5.0/ref/Polygons.Library.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/bin/Debug/net5.0/Polygons.Library.pdb
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/obj/Debug/net5.0/Polygons.Library.csproj.AssemblyReference.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/obj/Debug/net5.0/Polygons.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/obj/Debug/net5.0/Polygons.Library.AssemblyInfoInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/obj/Debug/net5.0/Polygons.Library.AssemblyInfo.cs
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/obj/Debug/net5.0/Polygons.Library.csproj.CoreCompileInputs.cache
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/obj/Debug/net5.0/Polygons.Library.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/obj/Debug/net5.0/ref/Polygons.Library.dll
+/Users/jp/coding/learning_materials/c#/c#_dev_funds/Polygons/Polygons.Library/obj/Debug/net5.0/Polygons.Library.pdb
