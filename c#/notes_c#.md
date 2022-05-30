@@ -136,9 +136,10 @@ namespace MyUtilities
 
 ## Types and Variables
 
-### Value Type
+### Value Type 
 
 - *Value type* directly contain variables data
+  - Can store data values in *its own memory*
   - Data stored on the *stack*
   - Variables each have their own copy of the data
   - Operations on one variable does not affect the other
@@ -152,6 +153,8 @@ namespace MyUtilities
 ### Reference Type
 
 - *Reference type* stores reference to variables data
+  - Does not store its value directly; saves the address where the value is kept
+    - Contains a pointer to another memory location where the data is stored
   - Data stored on the *heap*
   - Possible for two variables to reference the same object
   - Possible for operations on one variable to affect the object referenced by the other variable
@@ -160,6 +163,15 @@ namespace MyUtilities
 - Interface types
 - Array types
 - Delegate types
+
+### Variables
+
+- Variables are storage containers for data values
+  - int
+  - double
+  - char
+  - string
+  - bool
 
 ## Console Type
 
@@ -526,6 +538,11 @@ Console.WriteLine(myDictionary["B2"].Make);
 ```
 
 ## Arrays
+
+- Fixed-size sequential collection of elements of the same type
+  - Collection of variables of the same type stored in contiguous memory locations
+
+- Array is a reference type so `new` keyword is required to create an instance of the array
 
 ```C#
 // declare array and assign elements separately

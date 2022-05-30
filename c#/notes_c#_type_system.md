@@ -360,6 +360,8 @@ System
 
 #### Access Modifiers
 
+- *Access modifiers* are used to specify the scope of accessibility of a class member or type of the class itself
+
 - *Public* methods are part of public API of the class
   - Can be used outside the class
   - Can be invoked on objects of the class
@@ -507,7 +509,7 @@ employee.Department = "Sales"; // Department field
 
 ### Enumeration
 
-- Named constants for improved readability
+- *Enum* is a type of "class" that represents a collection of constants (variables that cannot be changed)
 
 - Created using `enum` keyword
   - Name of the enum becomes a custom type
