@@ -31,6 +31,28 @@
   - Linux
   - macOS
 
+## Common Language Runtime (CLR)
+
+- To translate Intermediate Language (IL) Code into Native Code
+  - When C# Code is compiled, it is translted into IL Code first
+  - Just-in-time (JIT) compilation
+  - Allows to run the code on different computer with different hardware architecture and OS
+
+## Architecture of .NET Applications
+
+- Application consists of building blocks called classes
+  - Classes collaborate with each other in runtime to provide functionalities
+  - Class is a container for data (attributes) and methods (functions)
+  - Each class is responsible for a functionality
+
+- Namespace is used to organize classes
+  - Container for related classes
+  - Ex. namespace for database, images, securities, etc.
+
+- Assembly is a file  (DLL or EXE) that contains one or more namespaces and classes
+  - DLL is a file that includes code that can be re-used across different programs
+  - EXE file represents a program that can be executed
+
 ## Development Environments
 
 ### Visual Studio Code
