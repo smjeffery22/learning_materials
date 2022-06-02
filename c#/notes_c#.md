@@ -365,6 +365,9 @@ for (int i = 0; i < 100; i++)
 
 - int type has min and max limits (-2147483648 to 2147483647)
   - If added to the max value, it overflows and carries on to the smallest negative number
+  - To avoid overflow, use `checked` keyword
+    - It will throw an exception
+    - Rarely used since other data type can be used
 
 ```C#
 int max = int.MaxValue;
@@ -375,11 +378,18 @@ Console.WriteLine($"The range of integers is {min} to {max}");
 // -2147483646
 int what = max + 3;
 Console.WriteLine($"An example of overflow: {what}");
+
+checked
+{
+  byte number = 255;
+  number = number + 1;
+}
 ```
 
 ### Double
 
 - `double` numeric type represents a double-precision floating point number
+  - Default data type used by C# for real numbers (i.e. decimal)
 
 - *Floating point* number is useful to represent non-integral numbers
 
@@ -400,6 +410,7 @@ Console.WriteLine($"The range of double is {min} to {max}");
 
 - `decimal` type has a smaller range, but greater precision than double
   - `M` suffix on the number to indicate that a constant should use the decimal type
+  - `f` suffix to indicate float type
     - Otherwise, the compiler assumes the double type
 
 ```C#
