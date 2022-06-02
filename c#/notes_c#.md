@@ -156,6 +156,59 @@ namespace MyUtilities
 
 - *Solution* includes multiple projects, each producing its own assembly
 
+## Operators
+
+### Arithmetic Operators
+
+- Add (+)
+- Subtract (-)
+- Multiply (*)
+- Divide (/)
+- Remainder (%)
+- Increment (++)
+- Decrement (--)
+
+```C#
+// Postfix Increment
+int a = 1;
+int b = a++;
+// a = 2; b = 1
+
+// Prefix Increment
+int a = 1;
+int b = ++a;
+// a = 2; b = 2
+
+```
+
+### Comparison Operators
+
+- Equal (==)
+- Not equal (!=)
+- Greater than (>)
+- Greater than or equal to (>=)
+- Less than (<)
+- Less than or equal to (<=)
+
+### Assignment Operators
+
+- Assignment (=)
+- Addition assignment (+=)
+- Subtraction assignment (-=)
+- Multiplication assignment (*=)
+- Division assignment (/=)
+
+### Logical Operators
+
+- And (&&)
+- Or (||)
+- Not (!)
+
+### Bitwise Operators
+
+- And (&)
+- Or (|)
+
 ## Types and Variables
 
 ### Value Type 
@@ -638,12 +691,14 @@ Console.WriteLine(myAge.TotalDays); // converts the result from above to the tot
 
 - `Class` is like a data type similar to string, int, etc.
   - Allows to define additional properties and methods
+  - Consists of fields and methods
   - `Instances` of the Class can be created using `new` operator
     - Object's (new instance) properties and methods can be accessed using `.` operator
 
 ### Accessibility Modifiers
 
 - `public` and `private` keywords are both accessibility modifiers
+  - To assign who can access this class
   - Used to implement a tentative object-oriented programming called `encapsulation`
 
 - `public` methods are exposed to anybody who needs to work with the class through that method
