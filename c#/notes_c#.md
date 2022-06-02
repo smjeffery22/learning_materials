@@ -1,13 +1,13 @@
 # C#
 
-- Most powerful programming language for .NET
+- Most powerful *programming language* for .NET
   - Object-oriented
   - Type-safe
   - Enables writing .NET applications that are secure and robust
 
 ## .NET
 
-- General purpose platform for developing variety of applications
+- General purpose *platform/framework* for developing variety of applications
   - Desktop / Web / Cloud / Mobile / Gaming / IoT / AI
 
 - Software development platform for building *Windows applications*
@@ -175,7 +175,7 @@ namespace MyUtilities
 
 ## Console Type
 
-- `Console` is a type that represents the console window
+- `Console` is a type (i.e. class) that represents the console window
 - `WriteLine` is a method of the Console type that prints a line of text to that text console
 
 ```C#
