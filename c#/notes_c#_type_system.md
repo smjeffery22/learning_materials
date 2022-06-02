@@ -510,6 +510,7 @@ employee.Department = "Sales"; // Department field
 ### Enumeration
 
 - *Enum* is a type of "class" that represents a collection of constants (variables that cannot be changed)
+  - A set of name-value pairs
 
 - Created using `enum` keyword
   - Name of the enum becomes a custom type
