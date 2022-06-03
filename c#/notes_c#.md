@@ -630,6 +630,14 @@ Console.WriteLine(myDictionary["B2"].Make);
 
 - Array is a reference type so `new` keyword is required to create an instance of the array
 
+- Array properties and methods:
+  - .Length
+  - .Clear()
+  - .Copy()
+  - .IndexOf()
+  - .Reverse()
+  - .Sort()
+
 ```C#
 // declare array and assign elements separately
 int[] numbers = new int[5];
@@ -657,6 +665,22 @@ foreach (string name in names)
 {
    Console.WriteLine(name);
 }
+```
+
+### Multidimensional Arrays
+                                 
+```C#
+// Declare multidimensional array
+var matrix = new int[3, 5]; // [row, column]                                 
+var matrix = new int[3, 5]
+{
+  { 1, 2, 3, 4, 5 },
+  { 6, 7, 8, 9, 10 },
+  { 11, 12, 13, 14, 15 }
+}
+                                 
+// Access multidimensional array
+var element = matrix[0, 0];
 ```
 
 ## Dates and Times
