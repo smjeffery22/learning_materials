@@ -591,8 +591,15 @@ if (index == -1)
   Console.WriteLine($"The name {names[index]} is at index {index}");
 }
 ```
+  
+### Other Methods
+  
+- .AddRange()
+- .RemoveAt()
+- .Contains()
+- .Count
 
-## ## List Collections - Dictionary<Tkey, Tvalue> Type
+## List Collections - Dictionary<Tkey, Tvalue> Type
 
 - Like a dictionary; key-value (word-definition) pair with types
 
