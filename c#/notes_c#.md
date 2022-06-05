@@ -548,6 +548,8 @@ for (int index = 0; index < 10; index++)
 
 - List<T> type enables to add/remove elements
   - `.Add()` and `.Remove()` methods
+  - .Remove() method cannot be used within a foreach loop
+    - Exception Unhandled error
 
 - Each element in the list can be accessed using index
 
