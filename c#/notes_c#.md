@@ -693,9 +693,12 @@ var element = matrix[0, 0];
 ```
 
 ## Dates and Times
-
+                                 
+- DateTime and TimeSpan are immutable
+  - When methods are used on the instances of DateTime and TimeSpan, new instances are returned
+                                 
 ```C#
-// current date and time
+// DateTime
 DateTime myValue = DateTime.Now;
 
 Console.WriteLine(myValue.ToString()); // 2022 - 05 - 09 10:17:40 PM
@@ -719,6 +722,44 @@ Console.WriteLine(myBirthday.ToShortDateString());
 
 TimeSpan myAge = DateTime.Now.Subtract(myBirthday); // subtracts myBirthday from the current time
 Console.WriteLine(myAge.TotalDays); // converts the result from above to the total number of days
+
+// TimeSpan
+// Creating
+var timeSpan = new TimeSpan(1, 2, 3); 
+var timeSpan1 = new TimeSpan(1, 0, 0); 
+var timeSpan2 = TimeSpan.FromHours(1); 
+var timeSpan3 = TimeSpan.FromMinutes(1); 
+
+Console.WriteLine(timeSpan); // 01:02:03
+Console.WriteLine(timeSpan1); // 01:00:00
+Console.WriteLine(timeSpan2); // 01:00:00
+Console.WriteLine(timeSpan3); // 00:01:00
+
+var start = DateTime.Now;
+var end = DateTime.Now.AddMinutes(2);
+var duration = end - start;
+
+Console.WriteLine($"Duration: {duration}"); // Duration: 00:02:00.0057831
+
+// Properties
+// Gets the minute component of timeSpan 
+Console.WriteLine($"Minuntes: {timeSpan.Minutes}"); // Minuntes: 2
+// Gets the total minutes of timeSpan
+Console.WriteLine($"Total minuntes: {timeSpan.TotalMinutes}"); // Total minuntes: 62.05
+
+// Add
+// // Adds 8 minutes to timeSpan
+Console.WriteLine($"Add example: {timeSpan.Add(TimeSpan.FromMinutes(8))}"); // Add example: 01:10:03
+// Subtracts 2 minutes to timeSpan
+Console.WriteLine($"Subtract example: {timeSpan.Subtract(TimeSpan.FromMinutes(2))}"); // Subtract example: 01:00:03
+
+// ToString
+Console.WriteLine($"ToString: {timeSpan.ToString()}"); // ToString: 01:02:03
+
+// Parse
+// Returns a TimeSpan object 
+// Console.WriteLine converts the object to string
+Console.WriteLine($"Parse: {TimeSpan.Parse("01:02:03")}"); // Parse: 01:02:03
 ```
 
 ## Classes
