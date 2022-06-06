@@ -907,3 +907,48 @@ class Car
 - *Exception statements* => catch and address issues
   - try { // risky code } catch { // fallback }
 
+## System.IO
+  
+### File / FileInfo
+  
+- Provide methods for creating, copying, deleting, moving and opening of files
+  
+- `FileInfo` provides instance methods
+  
+- `File` provides static methods
+  
+- Methods:
+  - Create()
+  - Copy()
+  - Delete()
+  - Exists()
+  - GetAttributes()
+  - Move()
+  - ReadAllText()
+  
+### Directory / DirectoryInfo
+  
+- Provide methods for working with directories
+  
+- `DirectoryInfo` provides instance methods
+  
+- `Directory` provides static methods
+  
+- Methods:
+  - CreateDirectory()
+  - Delete()
+  - Exists()
+  - GetCurrentDirectory()
+  - GetFiles()
+  - Move()
+  - GetLogicalDrives()
+  
+### Path
+
+- To work with the strings that contain file or directory path information
+
+- Methods:
+  - GetDirectoryName()
+  - GetFileName()
+  - GetExtension()
+  - GetTempPath()
