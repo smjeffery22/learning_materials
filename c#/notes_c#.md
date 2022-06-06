@@ -956,7 +956,25 @@ class Car
 ## Debug
   
 - `F5` to Run in Debug Mode
+  - Or to Jump to Next Debug Point
 - `Shift + F5` to Stop the Debug Mode
 - `F10` to Step Over
 - `F11` to Step Into
 - `Shift + F11` to Step Out
+  
+### Debug Windows
+
+- Tasks (Ctrl + Shift + D, 1/2/3)
+  - To watch variables and their values
+  
+- Autos (Ctrl + Alt + V, A)
+  - To watch all the variables and their values
+  
+- Locals (Ctrl + Alt + V, L)
+  - To watch all the variables and their values in the local scope
+  
+- Breakpoints (Ctrl + Alt + B)
+  - To show the list of breakpoints and enable/disable them
+  
+- Call Stack (Ctrl + Alt + C)
+  - To see the list of methods that have run
