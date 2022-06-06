@@ -699,6 +699,7 @@ var element = matrix[0, 0];
 DateTime myValue = DateTime.Now;
 
 Console.WriteLine(myValue.ToString()); // 2022 - 05 - 09 10:17:40 PM
+Console.WriteLine(now.ToString("yyyy-MM-dd HH:mm")); // 2022-06-05 21:31
 Console.WriteLine(myValue.ToShortDateString()); // 2022 - 05 - 09
 Console.WriteLine(myValue.ToShortTimeString()); // 10:17 PM
 Console.WriteLine(myValue.ToLongDateString()); // Monday, May 9, 2022
