@@ -303,12 +303,25 @@ static float FahrenheitToCelsius(float temperatureFarenheit)
 
 - `.Replace("text_to_search_for", "text_to_replace"_with)` to replace a substring of a string
 
-- `.ToUpper()` and `ToLower()` to make a string ALL CAPS and all lower case, respectively
+- `.ToUpper()` and `.ToLower()` to make a string ALL CAPS and all lower case, respectively
+
+- `.IsNullOrEmpty(str)` and `.IsNullOrWhiteSpace(str)` to check for null or empty/white space
+
+- `.Split()` to split a string by a certain character and return an array
 
 - `.Contains("substring_to_search")` to search if a string contains a substring
   - `.StartsWith("substring_to_search")` to search if a string starts with a substring
   - `.EndsWith("substring_to_search")` to search if a string ends with a substring
   - All three methods above *return a boolean*
+
+- `int.Parse(str)` or `Convert.ToInt32(str)` to convert from string to int
+  - If string is null or empty:
+    - int.Parse(str) returns an exception
+    - Convert.ToInt32() returns a default value (i.e. 0)
+
+- `.ToString()` to convert from number to string
+  - `.ToString("C")` to convert to currency (default is 2 decimals)
+  - `.ToString("C0")` to convert to currency with no decimal
 
 ```C#
 // Variable Declaration and String Interpolation //
