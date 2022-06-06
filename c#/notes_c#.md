@@ -952,3 +952,11 @@ class Car
   - GetFileName()
   - GetExtension()
   - GetTempPath()
+
+## Debug
+  
+- `F5` to Run in Debug Mode
+- `Shift + F5` to Stop the Debug Mode
+- `F10` to Step Over
+- `F11` to Step Into
+- `Shift + F11` to Step Out
