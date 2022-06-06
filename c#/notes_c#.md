@@ -392,7 +392,13 @@ Console.WriteLine(songLyrics.EndsWith("goodbye"));    // false
 
 - `StringBuilder` class represents a mutable string of characters
   - Does not create new variable
-  - Use along with `.Append()` method
+  - Not for seraching (IndexOf, LastIndexOf, Contains, StartsWith, etc)
+  - Can be used with string manipulation methods:
+    - .Append()
+    - .Insert()
+    - .Remove()
+    - .Repalce()
+    - .Clear()
 
 ```C#
 // string type
